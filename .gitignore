@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+.terraform/
+.terraform/providers/registry.terraform.io/hashicorp/aws/4.60.0/windows_amd64/terraform-provider-aws_v4.60.0_x5.exe
+rootkey.csv
+my_key_pair
+my_key_pair.pub
