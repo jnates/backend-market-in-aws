@@ -29,5 +29,3 @@ resource "aws_key_pair" "generated_key_pair" {
   key_name   = var.key_pair_name
   public_key = file("${var.key_pair_name}.pub")
 }
-
-
